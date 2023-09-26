@@ -23,7 +23,7 @@
 hs_err_pid*
 replay_pid*
 target/
-
+.idea
 # The following files are generated/updated by Hilla
 node_modules/
 frontend/generated/
