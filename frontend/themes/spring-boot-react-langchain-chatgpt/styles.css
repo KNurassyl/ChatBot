@@ -1,0 +1,11 @@
+.flex.flex-col.justify-between.h-full.p-m {
+    background-color: #65A9A6;
+}
+
+h1.text-l.m-0 {
+    color: #FFFFFF; /* or any color you prefer */
+}
+
+vaadin-button {
+    background-color: #ff7f50;
+}

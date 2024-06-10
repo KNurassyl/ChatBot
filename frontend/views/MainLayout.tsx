@@ -17,12 +17,12 @@ export default function MainLayout() {
         <header className="flex flex-col gap-m">
           <h1 className="text-l m-0">AI Chat 🤖</h1>
           <nav>
-            <NavLink className={navLinkClasses} to="/">
-              Hello World
-            </NavLink>
-            <NavLink className={navLinkClasses} to="/streaming">
-              Streaming Chat
-            </NavLink>
+            {/*<NavLink className={navLinkClasses} to="/">*/}
+            {/*  Chat*/}
+            {/*</NavLink>*/}
+            {/*<NavLink className={navLinkClasses} to="/streaming">*/}
+            {/*  Streaming Chat*/}
+            {/*</NavLink>*/}
           </nav>
         </header>
       </div>

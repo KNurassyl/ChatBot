@@ -17,6 +17,7 @@ import reactor.core.publisher.Sinks;
 @AnonymousAllowed
 public class ChatService {
     @Value("${openai.api.key}")
+//    @Value("${langchain4j.open-ai.streaming-chat-model.api-key}")
     private String OPENAI_API_KEY;
     private Assistant assistant;
     private StreamingAssistant streamingAssistant;
